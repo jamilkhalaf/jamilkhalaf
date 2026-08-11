@@ -65,21 +65,6 @@
 
 ---
 
-## `$ ./stats.sh`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jamilkhalaf&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilkhalaf&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&langs_count=8" alt="top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=jamilkhalaf&hide_border=true&background=0D1117&stroke=30363D&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="streak" />
-
-</div>
-
----
-
 ## `$ ./contributions.sh`
 
 <div align="center">
@@ -87,41 +72,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamilkhalaf&bg_color=0D1117&color=C9D1D9&line=3FB950&point=FFFFFF&area=true&area_color=3FB950&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
 
 </div>
-
----
-
-## `$ ls -la ~/projects`
-
-```console
-┌──────────────────────────────────────────────────────────────┐
-│  ● ● ●                jamil@github: ~/projects               │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  jamil@github:~/projects$ ls -la                             │
-│                                                              │
-│  drwxr-xr-x   chess/                   Java                  │
-│  drwxr-xr-x   face_recognition_game/   Python · OpenCV       │
-│  drwxr-xr-x   digital_design_colab/    Jupyter               │
-│  -rw-r--r--   next_project.md          in progress …         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-<a href="https://github.com/jamilkhalaf/chess">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamilkhalaf&repo=chess&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9" alt="chess" />
-</a>
-<a href="https://github.com/jamilkhalaf/face_recognition_game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamilkhalaf&repo=face_recognition_game&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9" alt="face_recognition_game" />
-</a>
-
-</div>
-
-| Project | Stack | What it is |
-| :--- | :--- | :--- |
-| **[chess](https://github.com/jamilkhalaf/chess)** | `Java` | A full chess implementation — board state, move generation, and rules, written from scratch. |
-| **[face_recognition_game](https://github.com/jamilkhalaf/face_recognition_game)** | `Python` `OpenCV` | A camera-driven game built on real-time face detection and tracking. |
 
 ---
 
